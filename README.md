@@ -26,3 +26,12 @@ Pillow
 <br>
 
 ![Screenshot from 2024-04-08 18-21-56](https://github.com/newamooz/rat-winhunter/assets/101067545/226ce591-b1db-44c2-a7bf-d47f1d0c6660)
+
+
+# USING
+Enter your password and chat ID in the code provided
+```
+tk = ''
+CHAT_ID =
+
+```
