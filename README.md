@@ -33,5 +33,5 @@ Enter your password and chat ID in the code provided
 ```
 tk = ''
 CHAT_ID =
-
 ```
+And after entering the token and chat ID, you can make the code executable and give it to the target
