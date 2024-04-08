@@ -19,5 +19,7 @@ Pillow
 
 ![Screenshot from 2024-04-08 18-21-06](https://github.com/newamooz/rat-winhunter/assets/101067545/70db0e4a-8370-4687-b6c4-bb8153dd27ac)
 <br>
+<br>
+
 ![Screenshot from 2024-04-08 18-21-32](https://github.com/newamooz/rat-winhunter/assets/101067545/f1a818b1-e7b7-4036-bf4f-40b59b585a7f)
 
